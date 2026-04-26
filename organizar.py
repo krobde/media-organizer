@@ -254,7 +254,7 @@ def process_video(video_path: Path, dry_run: bool):
 
     return True
 
-def organize_directory(source_dir: Path, dry_run: bool = False, recursive: bool = False):
+def organize_directory(source_dir: Path, dry_run: bool = False, recursive: bool = True):
     """
     Escanea el directorio fuente en busca de vídeos (y sus subtítulos),
     procesa cada uno. recursive True cuando queramos recursividad
