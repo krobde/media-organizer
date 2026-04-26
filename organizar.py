@@ -29,9 +29,9 @@ VIDEO_EXT = {'.avi', '.mkv', '.mp4', '.mov', '.wmv', '.flv', '.webm', '.m4v'}
 SUB_EXT   = {'.srt', '.sub', '.ass', '.ssa', '.vtt'}
 
 # Carpetas destino
-PELICULAS_DIR = "/mnt/compartido/datos/qbittorrent/pelis"
-SERIES_DIR    = "/mnt/compartido/datos/qbittorrent/series"
-SIN_CLASIFICAR_DIR = "/mnt/compartido/datos/qbittorrent/sin_clasificar"
+PELICULAS_DIR = "/path/to/movies"
+SERIES_DIR    = "/path/to/tvshows"
+SIN_CLASIFICAR_DIR = "/path/to/sin_clasificar"
 
 # Formato de nombres
 # Para películas: "Nombre de la película (año).ext"
