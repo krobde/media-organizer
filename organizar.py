@@ -20,7 +20,7 @@ import requests
 from guessit import guessit
 
 # ========== CONFIGURACIÓN ==========
-TMDB_API_KEY = "***REMOVED***"   # <-- Reemplazar con tu clave real
+TMDB_API_KEY = "TU_API_KEY_AQUI"   # <-- Reemplazar con tu clave real
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 LANGUAGE = "es"                     # Cambiar según preferencia (es, en, etc.)
 
